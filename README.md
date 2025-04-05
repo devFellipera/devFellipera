@@ -1,4 +1,4 @@
-Opa, eu sou o Felipe Oliveira estudante de programação e tecnologia!
+Opa, eu sou o Felipe Soares estudante de programação e tecnologia!
 
 <div style="display: inlineblock"><br> 
   <img align="center" alt="felipe-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
